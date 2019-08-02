@@ -1,0 +1,20 @@
+{
+  "name": "mysql2-promise-txn-pool",
+  "version": "1.0.0",
+  "description": "Pool of transactions with deadlock resolver for mysql2/promise interface",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mysql",
+    "transaction",
+    "txn",
+    "deadlock",
+    "repeat",
+    "pool"
+  ],
+  "author": "Perlover",
+  "license": "ISC"
+}
